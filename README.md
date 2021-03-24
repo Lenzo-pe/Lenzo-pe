@@ -22,3 +22,5 @@ size_t	ft_strclen(char *str, int c)
 ```
 
 [![Here](https://github.com/google/material-design-icons/blob/master/png/social/architecture/materialiconsoutlined/48dp/2x/outline_architecture_black_48dp.png)](https://www.google.com/)
+
+[FUNTIONS](FUNCTIONS.md)
