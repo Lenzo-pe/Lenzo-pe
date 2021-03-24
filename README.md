@@ -1,4 +1,4 @@
-#Lenzo-pe
+# Lenzo-pe
 
 I'm Lenzo-pe and I'm working as a slaver of mylself to help with some projects.  
 I've been learning a lot of things and a im becoming good at:
